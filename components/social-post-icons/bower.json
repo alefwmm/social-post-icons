@@ -1,0 +1,28 @@
+{
+  "name": "social-post-icons",
+  "version": "0.1.0",
+  "description": "A Polymer iconset that provides social-post icons for use with core-icon",
+  "main": "social-post-icons.html",
+  "keywords": [
+    "web-components",
+    "web-component",
+    "polymer",
+    "social-post-icons",
+    "iconset",
+    "social"
+  ],
+  "dependencies": {
+    "iron-icon": "PolymerElements/iron-icon",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg",
+    "polymer": "Polymer/polymer",
+    "paper-fab": "PolymerElements/paper-fab#~0.9.2",
+    "iron-component-page": "PolymerElements/iron-component-page#~0.9.4"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
